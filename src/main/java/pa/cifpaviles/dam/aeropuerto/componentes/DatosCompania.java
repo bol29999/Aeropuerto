@@ -194,7 +194,7 @@ public class DatosCompania extends javax.swing.JPanel {
     // End of variables declaration//GEN-END:variables
 
     private void fillMunicipios(){
-        LogicaNegocio.getAllMunicipios().forEach(m->cbMunicipios.additem());
+        //LogicaNegocio.getAllMunicipios().forEach(m->cbMunicipios.additem());
     }
 
 

@@ -30,7 +30,7 @@ public class LogicaNegocio {
     }
 
     private static void initializeCompanias() {
-        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
+        //throw new UnsupportedOperationException("Not supported yet.");
     }
 
     private static List<Municipio> lstMunicipios = new ArrayList<>();
